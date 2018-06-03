@@ -1,0 +1,17 @@
+{
+  "name": "air-hockey",
+  "version": "1.0.0",
+  "description": "Air Hockey Game",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Steven, Tianxu",
+  "license": "ISC",
+  "dependencies": "socket.io"
+}
